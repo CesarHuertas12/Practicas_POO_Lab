@@ -1,0 +1,3 @@
+Student Data: [Name: Cesar, Enrollment: 1273328, Grades: [67] [87] [97] [100] [78] [99] [87] , Average: 87.85714]
+Student Data: [Name: Alex, Enrollment: 1275964, Grades: [58] [67] [98] [78] [99] [69] [77] , Average: 78.0]
+Student Data: [Name: Dani, Enrollment: 1272549, Grades: [100] [86] [81] [91] [82] [74] [66] , Average: 82.85714]
